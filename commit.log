@@ -1,0 +1,118 @@
+commit d754bb83b4f714ff5ac9ac8574941357589e2050
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Wed Oct 5 01:08:44 2022 +0200
+
+    Agregando 2 lorem
+
+commit 4a400069317bd3a86e39033a230e607f5b6136d7
+Merge: d977f57 4bc7966
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Wed Oct 5 01:07:07 2022 +0200
+
+    Merge branch 'main' of https://github.com/Adamstar999/curso-git
+
+commit d977f57670dc1b0521aa3270a359daea2d645528
+Merge: ba2d9ec 17812ff
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Wed Oct 5 01:05:21 2022 +0200
+
+    Agregando estaciones del año con fecha de inicio con resolucion de conflictos
+
+commit 4bc79662760e1f470cb5de40d1fd6a716a6e12ea
+Merge: ba2d9ec 17812ff
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Wed Oct 5 01:05:21 2022 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit ba2d9ece9e67ebb3a4a82326df5d7e44192388df
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Wed Oct 5 00:51:40 2022 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 17812ff07ea5e7ade1b1590d7fbc88a13de81d55
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Wed Oct 5 00:51:40 2022 +0200
+
+    Agregando estaciones del año
+
+commit d5283e3fb4439851bb8b57e11db53686047e3203
+Merge: c7f9355 b6f4a72
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Wed Oct 5 00:30:00 2022 +0200
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit b6f4a7221bcad2b1dc0cb351a2ef6d79702e815c
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Wed Oct 5 00:23:44 2022 +0200
+
+    Agregando script.js al index.html(no esta el script xd)
+
+commit c7f93555548bcf7b224e6cf7a126bf4b19118090
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Wed Oct 5 00:22:02 2022 +0200
+
+    Agregando styles.css al index.html
+
+commit 67a77c4c077f887ac4d7b9a5054ab10e604c6b8a
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Tue Oct 4 23:06:43 2022 +0200
+
+    Agregando index.html
+
+commit 6961a6aaca01dda81673878d0931f67bdd94585f
+Merge: 8e6c796 1e2e4b8
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Tue Oct 4 22:31:30 2022 +0200
+
+    Merge branch 'js'
+
+commit 1e2e4b821ad32fea3cfb41d566325547488d3498
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Tue Oct 4 18:20:27 2022 +0200
+
+    Creando index.js
+
+commit 8e6c796f4de758c59ed21760a76769d1bbab650b
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Tue Oct 4 18:16:38 2022 +0200
+
+    Creando style.css
+
+commit ce37e41eab43ac86260fc807d748b4de42c2f263
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Tue Oct 4 18:12:53 2022 +0200
+
+    Creando index.html
+
+commit 74aabf9327ae8235ab86ba5066b07e6a69d4b82e
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Tue Oct 4 17:46:28 2022 +0200
+
+    ignorando archivos .exe
+
+commit f0e777023791344e2620f0cfc5874606873ed188
+Author: Adam Ali <114931414+Adamstar999@users.noreply.github.com>
+Date:   Tue Oct 4 01:15:02 2022 +0200
+
+    Creando licencia del repositorio
+
+commit 4c3b3461a6d56fbc43eaf7534b74bf8f71e723c9
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Tue Oct 4 01:00:19 2022 +0200
+
+    Agregando mas contenido al README
+
+commit 6f16901f0f0cb1cf5cc2e61b32151ced850b7c70
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Tue Oct 4 00:37:34 2022 +0200
+
+    Agregando contenido inicial al README
+
+commit 672086d8775abdd008a0b3c8a06a0bf6728eb3d7
+Author: Adamstar999 <adamstargamer@gmail.com>
+Date:   Tue Oct 4 00:32:57 2022 +0200
+
+    Primer commit <:

@@ -1,0 +1,33 @@
+* 8602739 eliminando Git_Guide.txt
+* d754bb8 Agregando 2 lorem
+*   4a40006 Merge branch 'main' of https://github.com/Adamstar999/curso-git
+|\  
+| *   4bc7966 Agregando estaciones del año con fecha de inicio
+| |\  
+* | \   d977f57 Agregando estaciones del año con fecha de inicio con resolucion de conflictos
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 17812ff Agregando estaciones del año
+* | ba2d9ec Agregando estaciones del año con fecha de inicio
+|/  
+*   d5283e3 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+* | c7f9355 Agregando styles.css al index.html
+| | * 8e2ff92 Arreglando el problema del contenido del parrafo
+| |/  
+| * b6f4a72 Agregando script.js al index.html(no esta el script xd)
+| * 67a77c4 Agregando index.html
+|/  
+*   6961a6a Merge branch 'js'
+|\  
+| * 1e2e4b8 Creando index.js
+* | 8e6c796 Creando style.css
+* | ce37e41 Creando index.html
+|/  
+* 74aabf9 ignorando archivos .exe
+* f0e7770 Creando licencia del repositorio
+* 4c3b346 Agregando mas contenido al README
+* 6f16901 Agregando contenido inicial al README
+* 672086d Primer commit <:
